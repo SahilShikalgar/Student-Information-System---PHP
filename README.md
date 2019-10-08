@@ -15,10 +15,16 @@ User/Student module contains following functionalities :-
   3) Change Password
   4) Logout
 
+
 Admin Login Credentials :-
+
 Username: sahil
+
 Password: sahil
 
+
 User Login Credentials :-
+
 Username: 4001
+
 Password: 4001
